@@ -1,3 +1,6 @@
+
+![Bump Command Example](https://disboard.org/images/bot-command-image-bump.png)
+
 # 🚀 Pump.Fun Bump Bot: Automate Your Trading on Pump.fun & Raydium! 🚀
 
 Free to use bump bot for your pump fun tokens.
