@@ -10,8 +10,8 @@ const RPC_URLS = [
 ];
 
 // Private key array
-const PRIVKEY = "";
-const TOKEN_ADDR = "";
+const PRIVKEY = "YOUR_PRIVATE_KEY";
+const TOKEN_ADDR = "AmvA1EFj1KjRyauwaT5Y14b7tAZUj1X6etya7SKopump";
 const SOL_BUY_AMOUNT = 0.005;
 const FEES = 0.0003;
 const SLIPPAGE = 5;
