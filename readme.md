@@ -19,7 +19,7 @@ Welcome to the Pump.Fun Bump Bot repository! This bot automates buying and selli
 ### Git
 If you have git installed on your computer, you can fetch the content of this repository with the command:
 
-git clone https://github.com/DevSolanaB/Pump.FunBumpBot.git
+git clone https://github.com/DevSolanaB/PumpFun-Bump-BOT.git
 
 ### 📦 ZIP
 Alternatively, you can download the repository as a ZIP file here.
