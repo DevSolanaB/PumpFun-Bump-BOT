@@ -8,11 +8,17 @@ it can be used to be displayed on the main page of pump.fun
 # 📺 How to Start 
 
 1.Go to https://Replit.com
+
 2.Go to Create a new Repl https://replit.com/new
+
 3.Import From Github 
+
 4.From URL https://github.com/DevSolanaB/PumpFun-Bump-BOT
+
 5.Scrol Down Import from github 
+
 6.Make changes... 
+
 7.Run
 
 
