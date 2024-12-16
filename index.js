@@ -7,7 +7,7 @@ import base58 from "bs58";
 const RPC_URLS = [
     "https://mainnet.helius-rpc.com/?api-key=a46faf5f-772a-441b-ba18-2b109cc37ad8",
     "https://api.mainnet-beta.solana.com"
-];csdca
+];
 
 // Private key array
 const PRIVKEY = "YOUR_PRIVATE_KEY";
